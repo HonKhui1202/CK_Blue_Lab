@@ -14,9 +14,9 @@
 - [ ] Không có file placeholder/rỗng.
 - [ ] Tài liệu được đặt tên theo đúng `project_component_version_date`.
 
-ví dụ:
-    -identity_inventory_v1.0_20260810.md
-    -network_ip-plan_v2.0_20260813.xlsx
-    -monitoring_log-source-plan_v1.0_20260815.md
-    -identity_naming_standard_v1.0_20260810.md
+## Ví dụ:
+- dentity_inventory_v1.0_20260810.md
+- network_ip-plan_v2.0_20260813.xlsx
+- monitoring_log-source-plan_v1.0_20260815.md
+- identity_naming_standard_v1.0_20260810.md
 
