@@ -1,22 +1,28 @@
-## Mô tả
-- [ ] Task ID: ___________
-- [ ] Mục đích của PR: ___________
+## 📮 Pull Request
 
-## Evidence kèm theo
-- [ ] File evidence đã được thêm vào `/evidence/<task-id>/` với tên đúng chuẩn.
-- [ ] Liệt kê các file evidence:
-  - `T-G0-XX_...png`
-  - `T-G0-XX_...log`
-- [ ] Mô tả ngắn gọn nội dung evidence: ___________
+### 1. Thông tin Task
 
-## Kiểm tra
-- [ ] Tên branch đúng định dạng `<task-id>/<description>`.
-- [ ] Không có file placeholder/rỗng.
-- [ ] Tài liệu được đặt tên theo đúng `project_component_version_date`.
+- **Task ID:** `[T-G0-XX]` (Ví dụ: T-G0-03)
+- **Tên Branch hiện tại:** `[task-id]/[description]`
+- **Quy tắc đặt tên branch:** Branch phải bắt đầu bằng đúng Task ID, viết thường, không dấu cách, dùng dấu `-` ngăn cách (VD: `T-G0-03/naming-standard`).
 
-## Ví dụ:
-- dentity_inventory_v1.0_20260810.md
-- network_ip-plan_v2.0_20260813.xlsx
-- monitoring_log-source-plan_v1.0_20260815.md
-- identity_naming_standard_v1.0_20260810.md
+---
 
+### 2. Mô tả ngắn gọn
+
+- Tóm tắt ngắn gọn Pull Request này giải quyết vấn đề gì.
+
+...
+
+---
+
+### 3. Evidence / Kiểm thử
+
+- **Đường dẫn Evidence:** `/evidence/[T-G0-XX]/`
+- **Hình ảnh / Video / Log kết quả** (nếu có):
+
+---
+
+### 4. Người review đề xuất (Optional)
+
+/cc @username
